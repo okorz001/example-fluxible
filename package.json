@@ -6,7 +6,6 @@
   "license": "Apache-2.0",
   "private": true,
   "scripts": {
-    "postinstall": "webpack",
     "start": "node build/server.js",
     "test": "echo 'skip'",
     "watch": "./watch.sh"
